@@ -50,14 +50,14 @@
 
   called a **compiler** or an **interpreter**, to translate your source code into machine language. 
 
-  #### Machine language is also called 
-      **binary language**,and is represented as a series of **0s and 1s**.
-      When you use a **compiler**, an *entire* program is translated before it can execute; when you use an **interpreter**, *each* instruction is translated just prior to execution. 
+#### Machine language is also called 
+  **binary language**,and is represented as a series of **0s and 1s**.
+ - When you use a **compiler**, an *entire* program is translated before it can execute; when you use an **interpreter**, *each* instruction is translated just prior to execution. 
 
-    # A program with no syntax errors is translatable and can execute, but it still might contain **logical errors** and produce incorrect output as a result.
+  # A program with no syntax errors is translatable and can execute, but it still might contain **logical errors** and produce incorrect output as a result.
 
-    **NB** 
-    - For a program to work properly, you must develop correct logic; that is, you must write program instructions in a specific sequence, you must not leave any instructions out, and you must not add extraneous instructions.
+  **NB** 
+  - For a program to work properly, you must develop correct logic; that is, you must write program instructions in a specific sequence, you must not leave any instructions out, and you must not add extraneous instructions.
 
   ## Suppose you instruct someone to make a cake as follows:
 
