@@ -77,14 +77,14 @@
   # A variable: 
     is a named memory location whose value can vary.
 
-    The instruction set *myAnswer = myNumber * 2* is an example of a **processing** operation.
-    In most programming languages, an *asterisk* is used to indicate *multiplication*, so this
+    The instruction set ```myAnswer = myNumber * 2``` is an example of a processing operation.
+    In most programming languages, an asterisk is used to indicate multiplication, so this
     instruction means “Change the value of the memory location myAnswer to equal the value
     at the memory location myNumber times two.”
 
     # Memory location/ addresses
-    Computer programmers often refer to *memory addresses* using *hexadecimal notation*, or *base 16.*
-    Eg.  **42FF01A** to refer to a **memory address**.
+    Computer programmers often refer to memory addresses using hexadecimal notation, or *base 16.
+    ```Eg.  42FF01A to refer to a memory address.```
 
   # program development cycle
 
