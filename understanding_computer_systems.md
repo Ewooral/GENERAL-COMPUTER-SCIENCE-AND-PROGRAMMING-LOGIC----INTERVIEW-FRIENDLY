@@ -95,3 +95,6 @@
         5. Test the program.
         6. Put the program into production.
         7. Maintain the program
+
+  # Brute force solution 
+        in programming is a programming style that does not include any shortcuts to improve performance, but instead relies on sheer computing power to try all possibilities until the solution to a problem is found
