@@ -98,3 +98,8 @@
 
   # Brute force solution 
         in programming is a programming style that does not include any shortcuts to improve performance, but instead relies on sheer computing power to try all possibilities until the solution to a problem is found
+
+
+
+## Bottlenecks
+      bottlenecks refer to points in a system where the flow of data or processing is hindered, causing a slowdown or inefficiency. These bottlenecks can occur at various stages, such as in the code, database, network, or hardware infrastructure. Identifying and resolving bottlenecks is crucial for improving the overall performance and responsiveness of software applications.
